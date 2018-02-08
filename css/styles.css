@@ -1,0 +1,25 @@
+#img{
+  width: 30%;
+}
+#imgs{
+  width: 200px;
+}
+.column1{
+  width: 200px;
+  float: left;
+  margin-left: inherit;
+}
+.column2{
+  width: 200px;
+  float: left;
+  margin-left: inherit;
+}
+.column3{
+  width: 200px;
+  float: left;
+  margin-left: inherit;
+
+}
+body{
+  background-color: lightblue;
+}
